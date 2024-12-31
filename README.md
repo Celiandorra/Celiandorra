@@ -49,12 +49,13 @@
 
   
 
+###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/celiandorra/celiandorra/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-
+###
 
 
 ###
@@ -63,10 +64,4 @@
   <img src="https://visitcount.itsvg.in/api?id=Dorra&label=Profile%20Views&color=10&icon=9&pretty=true" />
 </a>
 
-
-
-
-
-
-
-
+###
